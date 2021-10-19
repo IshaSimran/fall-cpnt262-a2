@@ -6,7 +6,7 @@
 
 const pokemon = [
   {
-    id: 1,
+    id: 0,
     title: 'Pikachu',
     description: 'Electric type, known as the Mouse Pokemon.',
     width: 300,
@@ -18,7 +18,7 @@ const pokemon = [
     alt: 'Pikachu',
   },
   {
-    id: 2,
+    id: 1,
     title: 'Bulbasaur',
     description: 'Grass and Poison type, known as the Seed Pokemon.',
     width: 300,
@@ -30,7 +30,7 @@ const pokemon = [
     alt: 'Bulbasaur',
   },
   {
-    id: 3,
+    id: 2,
     title: 'Charmander',
     description: 'Fire Type, known as the Lizard Pokemon.',
     width: 300,
@@ -42,7 +42,7 @@ const pokemon = [
     alt: 'Charmander',
   },
   {
-    id: 4,
+    id: 3,
     title: 'Squirtle',
     description: 'Water Type, known as the Tiny Turtle Pokemon.',
     width: 300,
@@ -54,7 +54,7 @@ const pokemon = [
     alt: 'Squirtle',
   },
   {
-    id: 5,
+    id: 4,
     title: 'Cubone',
     description: 'Ground Type, known as the Lonely Pokemon.',
     width: 300,
@@ -66,7 +66,7 @@ const pokemon = [
     alt: 'Cubone',
   },
   {
-    id: 6,
+    id: 5,
     title: 'Eevee',
     description: 'Normal Type, known as the Evolution Pokemon.',
     width: 300,
@@ -78,7 +78,7 @@ const pokemon = [
     alt: 'Eevee',
   },
   {
-    id: 7,
+    id: 6,
     title: 'Jolteon',
     description: 'Electric Type, known as the Lightning Pokemon.',
     width: 300,
@@ -90,7 +90,7 @@ const pokemon = [
     alt: 'Jolteon',
   },
   {
-    id: 8,
+    id: 7,
     title: 'Snorlax',
     description: 'Normal Type, known as the Sleeping Pokemon.',
     width: 300,
@@ -102,7 +102,7 @@ const pokemon = [
     alt: 'Snorlax',
   },
   {
-    id: 9,
+    id: 8,
     title: 'Totodile',
     description: 'Water Type, known as the Big jaw Pokemon.',
     width: 300,
@@ -114,7 +114,7 @@ const pokemon = [
     alt: 'Totodile',
   },
   {
-    id: 10,
+    id: 9,
     title: 'Vulpix',
     description: 'Fire Type, known as the Fox Pokemon.',
     width: 300,
@@ -126,7 +126,7 @@ const pokemon = [
     alt: 'Vulpix',
   },
   {
-    id: 11,
+    id: 10,
     title: 'Dratini',
     description: 'Dragon Type, known as the Dragon Pokemon.',
     width: 300,
@@ -138,7 +138,7 @@ const pokemon = [
     alt: 'Dratini',
   },
   {
-    id: 12,
+    id: 11,
     title: 'Mew',
     description: 'Psychic Type, known as the Phantom Pokemon.',
     width: 300,
@@ -150,3 +150,15 @@ const pokemon = [
     alt: 'Mew',
   },
 ];
+
+// Loop that will display images
+
+// Figure that holds all of the object content
+
+// Image Title
+
+// Wikipdia link
+
+// Image linked
+
+// Image credit 

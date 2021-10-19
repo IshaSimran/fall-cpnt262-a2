@@ -15,7 +15,6 @@
 - [Pixabay License]()
 
 - [Pikachu]()
-- [Wiki Page]()
 
 - [Bulbasaur]()
 

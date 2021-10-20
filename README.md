@@ -3,7 +3,7 @@
 
 - [GitHub Repo](https://github.com/IshaSimran/fall-cpnt262-a2)
 
-- [GH Pages Site]()
+- [GH Pages Site](https://ishasimran.github.io/fall-cpnt262-a2/)
 
 
 ## Attributions

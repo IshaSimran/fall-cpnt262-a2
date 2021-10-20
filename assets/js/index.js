@@ -11,7 +11,7 @@ const pokemon = [
     description: 'Electric type, known as the Mouse Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/1-pikachu.jpg',
+    pathURL: 'assets/images/0-pikachu.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Pikachu',
     credit: 'Uploaded to Pixabay by RamadhanNotonegoro',
     creditLink: 'https://pixabay.com/photos/miniature-pikachu-pokemon-character-3720485/',
@@ -23,7 +23,7 @@ const pokemon = [
     description: 'Grass and Poison type, known as the Seed Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/2-bulbasaur.jpg',
+    pathURL: 'assets/images/1-bulbasaur.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Bulbasaur',
     credit: 'Uploaded to Pixabay by Vinsky2002',
     creditLink: 'https://pixabay.com/photos/small-cute-toy-figurine-painted-4023177/',
@@ -35,7 +35,7 @@ const pokemon = [
     description: 'Fire Type, known as the Lizard Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/3-charmander.jpg',
+    pathURL: 'assets/images/2-charmander.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Charmander',
     credit: 'Uploaded to Pixabay by Vinsky2002',
     creditLink: 'https://pixabay.com/photos/small-cute-toy-figurine-painted-4023176/',
@@ -47,7 +47,7 @@ const pokemon = [
     description: 'Water Type, known as the Tiny Turtle Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/4-squirtle.jpg',
+    pathURL: 'assets/images/3-squirtle.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Squirtle',
     credit: 'Uploaded to Pixabay By Vinsky2002',
     creditLink: 'https://pixabay.com/photos/small-cute-toy-figurine-painted-4021854/',
@@ -59,7 +59,7 @@ const pokemon = [
     description: 'Ground Type, known as the Lonely Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/5-cubone.jpg',
+    pathURL: 'assets/images/4-cubone.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Cubone',
     credit: 'Uploaded to Pixabay By @mamizaza on Instagram',
     creditLink: 'https://pixabay.com/photos/pop-funko-pokemon-toy-karakara-5475310/',
@@ -71,7 +71,7 @@ const pokemon = [
     description: 'Normal Type, known as the Evolution Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/6-eevee.jpg',
+    pathURL: 'assets/images/5-eevee.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Eevee',
     credit: 'Uploaded to Pixabay By @mamizaza on Instagram',
     creditLink: 'https://pixabay.com/photos/eevee-pop-funko-pokemon-toy-city-5475337/',
@@ -83,7 +83,7 @@ const pokemon = [
     description: 'Electric Type, known as the Lightning Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/7-jolteon.jpg',
+    pathURL: 'assets/images/6-jolteon.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon#Jolteon',
     credit: 'Uploaded to Unsplash By Jerry Johandy',
     creditLink: 'https://unsplash.com/photos/dPKv2iI5ChU',
@@ -95,7 +95,7 @@ const pokemon = [
     description: 'Normal Type, known as the Sleeping Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/8-snorlax.jpg',
+    pathURL: 'assets/images/7-snorlax.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Snorlax',
     credit: 'Uploaded to Unsplash By Clayton Robbins',
     creditLink: 'https://unsplash.com/photos/u3ZUSIH_eis',
@@ -107,7 +107,7 @@ const pokemon = [
     description: 'Water Type, known as the Big jaw Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/9-totodile.jpg',
+    pathURL: 'assets/images/8-totodile.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/List_of_generation_II_Pok%C3%A9mon#Totodile',
     credit: 'Uploaded to Unsplash By Janis Fasel',
     creditLink: 'https://unsplash.com/photos/gmLhKk7Djhk',
@@ -119,7 +119,7 @@ const pokemon = [
     description: 'Fire Type, known as the Fox Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/10-vulpix.jpg',
+    pathURL: 'assets/images/9-vulpix.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon#Vulpix',
     credit: 'Uploaded to Pixabay By @mamizaza on Instagram',
     creditLink: 'https://pixabay.com/photos/pop-funko-pokemon-toy-vulpix-5475336/',
@@ -131,7 +131,7 @@ const pokemon = [
     description: 'Dragon Type, known as the Dragon Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/11-dratini.jpg',
+    pathURL: 'assets/images/10-dratini.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/List_of_generation_I_Pok%C3%A9mon#Dratini',
     credit: 'Uploaded to Unsplash By Thomas Evans',
     creditLink: 'https://unsplash.com/photos/5JGCJsyZbLU',
@@ -143,7 +143,7 @@ const pokemon = [
     description: 'Psychic Type, known as the Phantom Pokemon.',
     width: 300,
     height: 200,
-    pathURL: 'assets/images/12-mew.jpg',
+    pathURL: 'assets/images/11-mew.jpg',
     linkURL: 'https://en.wikipedia.org/wiki/Mew_(Pok%C3%A9mon)',
     credit: 'Uploaded to Pixabay by Furbymama',
     creditLink: 'https://pixabay.com/photos/pokemon-toy-game-character-5151118/',
@@ -151,14 +151,49 @@ const pokemon = [
   },
 ];
 
-// Loop that will display images
+// Loop that will display everything 
 
-// Figure that holds all of the object content
+const object = document.querySelector('.object');
 
-// Image Title
+for (let i = 0; i < pokemon.length; i++) {
 
-// Wikipdia link
+  // Holds all of the object content
 
-// Image linked
+  const figure = document.createElement('figure');
+  figure.style.maxWidth = `${pokemon[i].width}px`;
+  object.appendChild(figure);
 
-// Image credit 
+  // Image Titles
+
+  const title = document.createElement('h2');
+  title.innerText = `${pokemon[i].title}`;
+  figure.appendChild(title);
+
+  // Description Added
+
+  const description = document.createElement('h3');
+  description.innerText = `${pokemon[i].description}`;
+  figure.appendChild(description);
+
+  // Wikipdia link
+
+  const wikiLink = document.createElement('a');
+  wikiLink.href = `${pokemon[i].linkURL}`;
+  wikiLink.target = '_blank';
+  figure.appendChild(wikiLink);
+
+  // Image linked
+
+  const figLinkImg = document.createElement('img');
+  figLinkImg.src = `${pokemon[i].pathURL}`;
+  figLinkImg.alt = `${pokemon[i].description}`;
+  wikiLink.appendChild(figLinkImg);
+
+  // Image credit added
+
+  const figCap = document.createElement('figcaption');
+  figure.appendChild(figCap);
+  const figCapLink = document.createElement('a');
+  figCapLink.innerText = `${pokemon[i].credit}`;
+  figCap.appendChild(figCapLink);
+}

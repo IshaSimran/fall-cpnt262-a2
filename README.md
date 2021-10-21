@@ -10,33 +10,33 @@
 
 ### Images
 
-- [Unsplash License]()
+- [Unsplash License](https://unsplash.com/license)
 
-- [Pixabay License]()
+- [Pixabay License](https://pixabay.com/service/license/)
 
-- [Pikachu]()
+- [Pikachu](https://unsplash.com/photos/bRojCEo0uow) Uploaded to Pixabay by RamadhanNotonegoro
 
-- [Bulbasaur]()
+- [Bulbasaur](https://pixabay.com/photos/small-cute-toy-figurine-painted-4023177/) Uploaded to Pixabay by Vinsky2002
 
-- [Charmander]()
+- [Charmander](https://pixabay.com/photos/small-cute-toy-figurine-painted-4023176/) Uploaded to Pixabay by Vinsky2002
 
-- [Squirtle]()
+- [Squirtle](https://pixabay.com/photos/small-cute-toy-figurine-painted-4021854/) Uploaded to Pixabay By Vinsky2002
 
-- [Cubone]()
+- [Cubone](https://pixabay.com/photos/pop-funko-pokemon-toy-karakara-5475310/) Uploaded to Pixabay By @mamizaza on Instagram
 
-- [Eevee]()
+- [Eevee](https://pixabay.com/photos/eevee-pop-funko-pokemon-toy-city-5475337/)Uploaded to Pixabay By @mamizaza on Instagram
 
-- [Jolteon]()
+- [Jolteon](https://unsplash.com/photos/dPKv2iI5ChU) Uploaded to Unsplash By Jerry Johandy
 
-- [Snorlax]()
+- [Snorlax](https://unsplash.com/photos/u3ZUSIH_eis) Uploaded to Unsplash By Clayton Robbins
 
-- [Totodile]()
+- [Totodile](https://unsplash.com/photos/gmLhKk7Djhk) Uploaded to Unsplash By Janis Fasel
 
-- [Vulpix]()
+- [Vulpix](https://pixabay.com/photos/pop-funko-pokemon-toy-vulpix-5475336/) Uploaded to Pixabay By @mamizaza on Instagram
 
-- [Dratini]()
+- [Dratini](https://unsplash.com/photos/5JGCJsyZbLU) Uploaded to Unsplash By Thomas Evans
 
-- [Mew]()
+- [Mew](https://pixabay.com/photos/pokemon-toy-game-character-5151118/) Uploaded to Pixabay by Furbymama
 
 ### Fonts
 

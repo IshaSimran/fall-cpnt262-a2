@@ -40,9 +40,10 @@
 
 ### Fonts
 
-### Tutorials/Examples
+- [Karla Font](https://fonts.google.com/specimen/Karla?query=karla) Designed by Johnny Pinhorn
 
-### Other
+- [Google Fonts License](https://fonts.google.com/about)
+
 
 
 

@@ -3,7 +3,6 @@ body {
 
   width: 100vw;
   margin: auto;
-
   background-color: lightblue;
 
 }
@@ -19,7 +18,6 @@ h1 {
   text-align: center;
   margin: 3rem;
   color: red;
-  
 }
 
 h2 {
@@ -29,7 +27,7 @@ h2 {
   font-variant: small-caps;
 
   margin: auto;
-
+  text-align: center;
 }
 
 /***** Descriptions *****/
@@ -41,6 +39,11 @@ h3 {
   font-variant: small-caps;
 
   text-align: center;
+  padding: 10px 5px 10px 5px;
+
+  color: white;
+  background-color: black;
+  border: 3px solid red;
 }
 
 /***** Image Gallery *****/
@@ -72,7 +75,6 @@ figure img {
   vertical-align: bottom;
 
   border: 3px solid red;
-  border-radius: 1rem;
 }
 
 /***** Image Credit *****/
@@ -83,16 +85,13 @@ figure figcaption {
   font-variant: small-caps;
   font-size: 1rem;
 
-  background-color: black;
   padding: 10px 5px 10px 5px;
 
-  border: 3px solid red;
   border-radius: 1rem;
 }
 
 figcaption a {
   text-decoration: none;
-  color: red;
 }
 
 /****** Media Queries *****/
